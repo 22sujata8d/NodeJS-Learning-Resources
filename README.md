@@ -25,7 +25,7 @@ The readme is divided into categories related to topics in the following manner:
 - [**Typeorm with express example**](https://orkhan.gitbook.io/typeorm/docs/example-with-express)
 
 ### Postgres
-- [**How to install postgres and use on ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04)
+- [**How to install postgres and use on ubuntu 18.04**](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04)
 - [**Create, Remove & Manage Tables in PostgreSQL**](https://www.digitalocean.com/community/tutorials/how-to-create-remove-manage-tables-in-postgresql-on-a-cloud-server)
 - **Tutorialpoints:** [**Typeorm**](https://www.tutorialspoint.com/typeorm/index.htm)
 - **Solution to error**: [postgresql password-authentication failed for user postgres](https://stackoverflow.com/questions/7695962/postgresql-password-authentication-failed-for-user-postgres)
