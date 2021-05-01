@@ -8,20 +8,21 @@ The readme is divided into categories related to topics in the following manner:
 * [**Typeorm**](#typeorm)
 * [**Postgres**](#postgres)
 * [**JWT**](#jwt)
+* [**API Related**](#api)
 
 
 ### NodeJS
 - [**Udemy Course by  Maximilian Schwarzmüller**](https://www.udemy.com/course/nodejs-the-complete-guide) : Node JS & Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL. Also, includes MVC pattern, sequealize orm, sessions/cookies, typescript intro, websockets and async-await units which are really helpful for beginner.
 
 ### NodeJS Directory Structure 
-- **MUST READ:** [**Gold Article on nodeJS project structure**](https://softwareontheroad.com/ideal-nodejs-project-structure/)
+- **MUST READ:** [**Good Article on nodeJS project structure**](https://softwareontheroad.com/ideal-nodejs-project-structure/)
 
 ### Dependency Injection 
 - **Good Read:** [**Dependency Injection in Node.js**](https://blog.risingstack.com/dependency-injection-in-node-js/)
 
 ### Typeorm 
 - [**Typeorm Documentation**](https://typeorm.io/#/)
-- **Youtube 1-hr:** [**Gold for starting Typeorm with postgres**](https://www.youtube.com/watch?v=Paz0gnODPE0&t=706s)
+- **Youtube 1-hr:** [**Good for starting Typeorm with postgres**](https://www.youtube.com/watch?v=Paz0gnODPE0&t=706s)
 - [**Typeorm with express example**](https://orkhan.gitbook.io/typeorm/docs/example-with-express)
 
 ### Postgres
@@ -34,3 +35,7 @@ The readme is divided into categories related to topics in the following manner:
 
 ### JWT
 - [**Authentication and Authorisation in express.js with JWTs**](https://stackabuse.com/authentication-and-authorization-with-jwts-in-express-js/)
+
+### API Related
+- **Stackoverflow Blog** : [**General Practices for REST API Design**](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
+- **Article** : [**API Paging**](https://www.mixmax.com/engineering/api-paging-built-the-right-way/)
