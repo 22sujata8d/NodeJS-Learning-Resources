@@ -16,6 +16,7 @@ The readme is divided into categories related to topics in the following manner:
 
 ### NodeJS Directory Structure 
 - **MUST READ:** [**Good Article on nodeJS project structure**](https://softwareontheroad.com/ideal-nodejs-project-structure/)
+- **Handling environment variables** - [**Using .env file in nodejs**](https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786)
 
 ### Dependency Injection 
 - **Good Read:** [**Dependency Injection in Node.js**](https://blog.risingstack.com/dependency-injection-in-node-js/)
@@ -35,6 +36,7 @@ The readme is divided into categories related to topics in the following manner:
 
 ### JWT
 - [**Authentication and Authorisation in express.js with JWTs**](https://stackabuse.com/authentication-and-authorization-with-jwts-in-express-js/)
+- [**JWT Authentication with Nodejs Article**](https://livecodestream.dev/post/a-practical-guide-to-jwt-authentication-with-nodejs/)
 
 ### API Related
 - **Stackoverflow Blog** : [**General Practices for REST API Design**](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
