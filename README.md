@@ -8,7 +8,8 @@ The readme is divided into categories related to topics in the following manner:
 * [**Typeorm**](#typeorm)
 * [**Postgres**](#postgres)
 * [**JWT**](#jwt)
-* [**API Related**](#api)
+* [**API Related**](#api-related)
+* [**Docker**](#docker)
 
 
 ### NodeJS
@@ -41,3 +42,6 @@ The readme is divided into categories related to topics in the following manner:
 ### API Related
 - **Stackoverflow Blog** : [**General Practices for REST API Design**](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
 - **Article** : [**API Paging**](https://www.mixmax.com/engineering/api-paging-built-the-right-way/)
+
+### Docker
+- **Docker Tutorial for Beginners** : [**A Full DevOps Course on How to Run Applications in Containers**](https://youtu.be/fqMOX6JJhGo)
